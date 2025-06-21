@@ -1,5 +1,5 @@
-# defender-asr-blocked-event-sensor
-# Microsoft Defender ASR Log Parser + Tanium Sensor Integration
+# Defender-Asr-Blocked-Event-Sensor
+# Microsoft Defender ASR Log Parser + Endpoint Managment Tool Sensor Integration
 
 PowerShell sensor that parses Microsoft Defender for Endpoint **Attack Surface Reduction (ASR)** logs to gain early-stage visibility into threat behavior, blocked exploits, and system actions for faster incident response and enhanced endpoint protection. — ideal for endpoint visibility and enterprise reporting.
 
@@ -39,9 +39,9 @@ LAPTOP-ACME|d4f940ab-401b-4efc-aadc-ad5f3c50688a|Block Office apps from creating
 
 ## Tanium Integration (Sensor Mode)
 
-This script can be deployed as a custom Tanium sensor to extend visibility across endpoints:
+This script can be deployed as a custom sensor for endpoint management tools like Tanium to extend visibility across endpoints:
 
-- Return ASR rule names and context to Tanium
+- Return ASR rule names and context to the endpoint management tool
 - Feed data into dashboards for rule coverage tracking
 - Enable reporting on ASR enforcement success/failures
 
