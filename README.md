@@ -47,9 +47,3 @@ This script can be deployed as a custom sensor for endpoint management tools lik
 
 ---
 
-## Usage
-
-### Manual Run
-
-```powershell
-.\Get-ASR-Event.ps1
