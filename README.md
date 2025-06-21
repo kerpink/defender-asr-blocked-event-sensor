@@ -47,3 +47,14 @@ This script can be deployed as a custom sensor for endpoint management tools lik
 
 ---
 
+## Disclaimer
+The scripts included in this repository are provided as-is, with no warranties. Always test scripts in a safe and recoverable environment before deploying them in production.
+
+Contributions, issues, and feature requests are welcome
+Feel free to check the issues page.
+
+---
+
+## License
+This project is MIT licensed.
+
